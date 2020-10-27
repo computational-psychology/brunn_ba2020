@@ -24,7 +24,7 @@ import simu_utils as su
 ################################################################################################
 """CONSTANTS"""
 
-# plto slope for MLDS data
+# plot slope for MLDS data
 method = "MLDS" 
 
 # specify background condition

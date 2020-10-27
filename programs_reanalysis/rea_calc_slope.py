@@ -24,7 +24,6 @@ import rea_utils as ru
 
 # specify for which method the slope shall be calculated
 method = "Matching" # "MLDS"/"MLCM"/"Matching"
-mode = "asym"
 
 # specify names to extract columns from dataframe depending on method
 if(method == "Matching"):    

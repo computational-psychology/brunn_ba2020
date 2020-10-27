@@ -22,8 +22,8 @@ import simu_utils as su
 ####################################################################################################################
 """CONSTANTS"""
 
-# specify for which method the slope shall be calculated
-method = "MLDS" # "MLDS"/"MLCM"/"Matching"
+# calculate slope for simulated MLDS scales
+method = "MLDS" # "MLDS"
 
 if(method == "MLDS"):
     x_label = "lum"
