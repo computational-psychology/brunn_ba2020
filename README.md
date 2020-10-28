@@ -9,7 +9,7 @@ The programs used for the simulation and the reanalysis can be found in the fold
 The folder "data" contains the experimental data used for this bachelor thesis and generated during the simulations and reanaysis.
 The folder "plots" contains all plots generated in the simulation and reanalysis.
 It is possible to generate all data and plots again with the provided programs.
-Only the experimental data of Aguilar and Maertens 202o is needed as a preliminary for the reanalysis. These data can be found in data/exp_aguilar2020.
+Only the experimental data of Aguilar and Maertens 2020 is needed as a preliminary for the reanalysis. These data can be found in data/exp_aguilar2020.
 
 In the following, I explain the structure of each folder.
 
